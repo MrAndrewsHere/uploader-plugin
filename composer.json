@@ -1,5 +1,5 @@
 {
-    "name": "responsiv/uploader-plugin",
+    "name": "MrAndrewsHere/uploader-plugin",
     "type": "october-plugin",
     "description": "Uploader plugin for October CMS",
     "keywords": ["october", "octobercms", "upload", "uploader", "dropzone"],
